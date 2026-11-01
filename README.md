@@ -35,27 +35,27 @@ If I were to use this in a user-facing product, then I'd craft a modern React fr
 
 **Interior**
 
-- [results/interior_1_output_sunset.png]
-- [results/interior_1_output_night.png]
+- ![](results/interior_1_output_sunset.png)
+- ![](results/interior_1_output_night.png)
 
 **Exterior 1:**
 I didn't have many issues with this one, it was a relatively straight-forward relighting.
 
-- [results/exterior_1_output_sunset.png]
-- [results/exterior_1_output_night.png]
+- ![](results/exterior_1_output_sunset.png)
+- ![](results/exterior_1_output_night.png)
 
 **Exterior 2:**
 I had a long-lasting issue with generating the night-time variant of this building due to the tool attempting to fill the gap between buildings and under the bridge, although with some tinkering I was able to overcome it.
 
-- [results/exterior_2_output_sunset.png]
-- [results/exterior_2_output_night.png]
+- ![](results/exterior_2_output_sunset.png)
+- ![](results/exterior_2_output_night.png)
 
 **Failures:**
 
-- [results/failures/exterior_1_output_sunset_failure.png]
-- [results/failures/exterior_2_output_night_failure.png]
-- [results/failures/exterior_2_output_noon_failure.png]
-- [results/failures/initial_experimentation_failure.png]
+- ![](results/failures/exterior_1_output_sunset_failure.png)
+- ![](results/failures/exterior_2_output_night_failure.png)
+- ![](results/failures/exterior_2_output_noon_failure.png)
+- ![](results/failures/initial_experimentation_failure.png)
 
 # How to Run
 
