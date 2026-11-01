@@ -1,0 +1,18 @@
+[tools]
+python = '3.14.10' # latest stable as of now, my preferred choice
+
+[env]
+activate_aggressive = true
+
+[tasks.setup]
+description = "set up the project"
+run = "python scripts/setup.py"
+
+[tasks.start]
+description = "starts comfyui"
+run = "python comfy/main.py"
+
+[tasks.start_cheap]
+description = "starts comfyui with lowvram"
+run = "python comfy/main.py --lowvram --listen 0.0.0.0"
+
