@@ -10,6 +10,8 @@ So admittedly I spent way too much time on this project, not because I wanted to
 a. I wanted the surrounding sky to be reasonably believable (generative methods seemed like the fit)
 b. I wanted the workflow to be really simple because I'm trying to learn to value simplicity above all
 
+I decided to use 512x512 images on an SD1.5 based RealisticVision model because it is very lenient on my system and is documented in the comfyui-ic-light repo examples.
+
 # What I Tried
 
 Here's the rough map of what I tried:
